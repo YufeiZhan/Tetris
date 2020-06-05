@@ -20,3 +20,8 @@ This game uses simple UP, DOWN, LEFT and RIGHT keystrokes to control the movemen
 
 Whenever a line is full, the score would add 20 marks. The game ends when the brick stacks at the top.
 
+
+## Future Implement
+1. Ask for username and password and store the highest score for each user.
+2. Make the GUI interface prettier.
+3. Add different game modes/levels.
